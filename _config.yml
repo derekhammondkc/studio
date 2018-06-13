@@ -1,0 +1,43 @@
+url: http://127.0.0.1:4000/
+baseurl: 
+
+# Site settings
+title: We Buy Homes
+email: your-email@domain.com
+description: "We buy and sell houses in the Kansas City area."
+
+
+# Team names, titles and social links
+people:
+- name: Derek Hammond
+  pic: 1
+  position: Lead Creator
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: whatever road
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
